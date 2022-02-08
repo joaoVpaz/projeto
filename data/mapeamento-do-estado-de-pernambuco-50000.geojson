@@ -1,0 +1,2560 @@
+{
+    "type": "FeatureCollection",
+    "name": "mapeamento-do-estado-de-pernambuco-50000",
+   
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "identificador": "1281-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.75,
+                                -7.75
+                            ],
+                            [
+                                -40.75,
+                                -7.5
+                            ],
+                            [
+                                -40.5,
+                                -7.5
+                            ],
+                            [
+                                -40.5,
+                                -7.75
+                            ],
+                            [
+                                -40.75,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "identificador": "1202-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.75,
+                                -7.5
+                            ],
+                            [
+                                -40.75,
+                                -7.25
+                            ],
+                            [
+                                -40.5,
+                                -7.25
+                            ],
+                            [
+                                -40.5,
+                                -7.5
+                            ],
+                            [
+                                -40.75,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "identificador": "1360-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.75,
+                                -8.25
+                            ],
+                            [
+                                -40.75,
+                                -8.0
+                            ],
+                            [
+                                -40.5,
+                                -8.0
+                            ],
+                            [
+                                -40.5,
+                                -8.25
+                            ],
+                            [
+                                -40.75,
+                                -8.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "identificador": "1209-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.5,
+                                -7.5
+                            ],
+                            [
+                                -37.5,
+                                -7.25
+                            ],
+                            [
+                                -37.25,
+                                -7.25
+                            ],
+                            [
+                                -37.25,
+                                -7.5
+                            ],
+                            [
+                                -37.5,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "identificador": "1281-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.75,
+                                -8.0
+                            ],
+                            [
+                                -40.75,
+                                -7.75
+                            ],
+                            [
+                                -40.5,
+                                -7.75
+                            ],
+                            [
+                                -40.5,
+                                -8.0
+                            ],
+                            [
+                                -40.75,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "identificador": "1288-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.5,
+                                -8.0
+                            ],
+                            [
+                                -37.5,
+                                -7.75
+                            ],
+                            [
+                                -37.25,
+                                -7.75
+                            ],
+                            [
+                                -37.25,
+                                -8.0
+                            ],
+                            [
+                                -37.5,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "identificador": "1522-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.5,
+                                -9.25
+                            ],
+                            [
+                                -37.5,
+                                -9.0
+                            ],
+                            [
+                                -37.25,
+                                -9.0
+                            ],
+                            [
+                                -37.25,
+                                -9.25
+                            ],
+                            [
+                                -37.5,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 12,
+                "identificador": "1203-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.5,
+                                -7.5
+                            ],
+                            [
+                                -40.5,
+                                -7.25
+                            ],
+                            [
+                                -40.25,
+                                -7.25
+                            ],
+                            [
+                                -40.25,
+                                -7.5
+                            ],
+                            [
+                                -40.5,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 13,
+                "identificador": "1367-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -8.25
+                            ],
+                            [
+                                -37.25,
+                                -8.0
+                            ],
+                            [
+                                -37.0,
+                                -8.0
+                            ],
+                            [
+                                -37.0,
+                                -8.25
+                            ],
+                            [
+                                -37.25,
+                                -8.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 14,
+                "identificador": "1288-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -8.0
+                            ],
+                            [
+                                -37.25,
+                                -7.75
+                            ],
+                            [
+                                -37.0,
+                                -7.75
+                            ],
+                            [
+                                -37.0,
+                                -8.0
+                            ],
+                            [
+                                -37.25,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 16,
+                "identificador": "1367-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -8.5
+                            ],
+                            [
+                                -37.25,
+                                -8.25
+                            ],
+                            [
+                                -37.0,
+                                -8.25
+                            ],
+                            [
+                                -37.0,
+                                -8.5
+                            ],
+                            [
+                                -37.25,
+                                -8.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 17,
+                "identificador": "1522-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -9.25
+                            ],
+                            [
+                                -37.25,
+                                -9.0
+                            ],
+                            [
+                                -37.0,
+                                -9.0
+                            ],
+                            [
+                                -37.0,
+                                -9.25
+                            ],
+                            [
+                                -37.25,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 19,
+                "identificador": "1522-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -9.5
+                            ],
+                            [
+                                -37.25,
+                                -9.25
+                            ],
+                            [
+                                -37.0,
+                                -9.25
+                            ],
+                            [
+                                -37.0,
+                                -9.5
+                            ],
+                            [
+                                -37.25,
+                                -9.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 21,
+                "identificador": "1368-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.0,
+                                -8.5
+                            ],
+                            [
+                                -37.0,
+                                -8.25
+                            ],
+                            [
+                                -36.75,
+                                -8.25
+                            ],
+                            [
+                                -36.75,
+                                -8.5
+                            ],
+                            [
+                                -37.0,
+                                -8.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23,
+                "identificador": "1523-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.0,
+                                -9.5
+                            ],
+                            [
+                                -37.0,
+                                -9.25
+                            ],
+                            [
+                                -36.75,
+                                -9.25
+                            ],
+                            [
+                                -36.75,
+                                -9.5
+                            ],
+                            [
+                                -37.0,
+                                -9.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 25,
+                "identificador": "1288-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -7.75
+                            ],
+                            [
+                                -37.25,
+                                -7.5
+                            ],
+                            [
+                                -37.0,
+                                -7.5
+                            ],
+                            [
+                                -37.0,
+                                -7.75
+                            ],
+                            [
+                                -37.25,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 27,
+                "identificador": "1209-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.25,
+                                -7.5
+                            ],
+                            [
+                                -37.25,
+                                -7.25
+                            ],
+                            [
+                                -37.0,
+                                -7.25
+                            ],
+                            [
+                                -37.0,
+                                -7.5
+                            ],
+                            [
+                                -37.25,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30,
+                "identificador": "1523-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.75,
+                                -9.5
+                            ],
+                            [
+                                -36.75,
+                                -9.25
+                            ],
+                            [
+                                -36.5,
+                                -9.25
+                            ],
+                            [
+                                -36.5,
+                                -9.5
+                            ],
+                            [
+                                -36.75,
+                                -9.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 32,
+                "identificador": "1203-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.25,
+                                -7.5
+                            ],
+                            [
+                                -40.25,
+                                -7.25
+                            ],
+                            [
+                                -40.0,
+                                -7.25
+                            ],
+                            [
+                                -40.0,
+                                -7.5
+                            ],
+                            [
+                                -40.25,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 33,
+                "identificador": "1210-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.0,
+                                -7.5
+                            ],
+                            [
+                                -37.0,
+                                -7.25
+                            ],
+                            [
+                                -36.75,
+                                -7.25
+                            ],
+                            [
+                                -36.75,
+                                -7.5
+                            ],
+                            [
+                                -37.0,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 34,
+                "identificador": "1368-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.0,
+                                -8.25
+                            ],
+                            [
+                                -37.0,
+                                -8.0
+                            ],
+                            [
+                                -36.75,
+                                -8.0
+                            ],
+                            [
+                                -36.75,
+                                -8.25
+                            ],
+                            [
+                                -37.0,
+                                -8.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 35,
+                "identificador": "1524-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.5,
+                                -9.5
+                            ],
+                            [
+                                -36.5,
+                                -9.25
+                            ],
+                            [
+                                -36.25,
+                                -9.25
+                            ],
+                            [
+                                -36.25,
+                                -9.5
+                            ],
+                            [
+                                -36.5,
+                                -9.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 37,
+                "identificador": "1204-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -40.0,
+                                -7.5
+                            ],
+                            [
+                                -40.0,
+                                -7.25
+                            ],
+                            [
+                                -39.75,
+                                -7.25
+                            ],
+                            [
+                                -39.75,
+                                -7.5
+                            ],
+                            [
+                                -40.0,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 38,
+                "identificador": "1368-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.75,
+                                -8.25
+                            ],
+                            [
+                                -36.75,
+                                -8.0
+                            ],
+                            [
+                                -36.5,
+                                -8.0
+                            ],
+                            [
+                                -36.5,
+                                -8.25
+                            ],
+                            [
+                                -36.75,
+                                -8.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40,
+                "identificador": "1289-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.75,
+                                -8.0
+                            ],
+                            [
+                                -36.75,
+                                -7.75
+                            ],
+                            [
+                                -36.5,
+                                -7.75
+                            ],
+                            [
+                                -36.5,
+                                -8.0
+                            ],
+                            [
+                                -36.75,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 42,
+                "identificador": "1204-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.75,
+                                -7.5
+                            ],
+                            [
+                                -39.75,
+                                -7.25
+                            ],
+                            [
+                                -39.5,
+                                -7.25
+                            ],
+                            [
+                                -39.5,
+                                -7.5
+                            ],
+                            [
+                                -39.75,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 43,
+                "identificador": "1290-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.5,
+                                -8.0
+                            ],
+                            [
+                                -36.5,
+                                -7.75
+                            ],
+                            [
+                                -36.25,
+                                -7.75
+                            ],
+                            [
+                                -36.25,
+                                -8.0
+                            ],
+                            [
+                                -36.5,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 45,
+                "identificador": "1284-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.5,
+                                -7.75
+                            ],
+                            [
+                                -39.5,
+                                -7.5
+                            ],
+                            [
+                                -39.25,
+                                -7.5
+                            ],
+                            [
+                                -39.25,
+                                -7.75
+                            ],
+                            [
+                                -39.5,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 47,
+                "identificador": "1205-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.5,
+                                -7.5
+                            ],
+                            [
+                                -39.5,
+                                -7.25
+                            ],
+                            [
+                                -39.25,
+                                -7.25
+                            ],
+                            [
+                                -39.25,
+                                -7.5
+                            ],
+                            [
+                                -39.5,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48,
+                "identificador": "1524-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.5,
+                                -9.25
+                            ],
+                            [
+                                -36.5,
+                                -9.0
+                            ],
+                            [
+                                -36.25,
+                                -9.0
+                            ],
+                            [
+                                -36.25,
+                                -9.25
+                            ],
+                            [
+                                -36.5,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 50,
+                "identificador": "1284-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.5,
+                                -8.0
+                            ],
+                            [
+                                -39.5,
+                                -7.75
+                            ],
+                            [
+                                -39.25,
+                                -7.75
+                            ],
+                            [
+                                -39.25,
+                                -8.0
+                            ],
+                            [
+                                -39.5,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 51,
+                "identificador": "1290-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.25,
+                                -8.0
+                            ],
+                            [
+                                -36.25,
+                                -7.75
+                            ],
+                            [
+                                -36.0,
+                                -7.75
+                            ],
+                            [
+                                -36.0,
+                                -8.0
+                            ],
+                            [
+                                -36.25,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 53,
+                "identificador": "1524-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.25,
+                                -9.25
+                            ],
+                            [
+                                -36.25,
+                                -9.0
+                            ],
+                            [
+                                -36.0,
+                                -9.0
+                            ],
+                            [
+                                -36.0,
+                                -9.25
+                            ],
+                            [
+                                -36.25,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 54,
+                "identificador": "1447-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.25,
+                                -9.0
+                            ],
+                            [
+                                -36.25,
+                                -8.75
+                            ],
+                            [
+                                -36.0,
+                                -8.75
+                            ],
+                            [
+                                -36.0,
+                                -9.0
+                            ],
+                            [
+                                -36.25,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 55,
+                "identificador": "1284-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.25,
+                                -8.0
+                            ],
+                            [
+                                -39.25,
+                                -7.75
+                            ],
+                            [
+                                -39.0,
+                                -7.75
+                            ],
+                            [
+                                -39.0,
+                                -8.0
+                            ],
+                            [
+                                -39.25,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 58,
+                "identificador": "1448-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.0,
+                                -9.0
+                            ],
+                            [
+                                -36.0,
+                                -8.75
+                            ],
+                            [
+                                -35.75,
+                                -8.75
+                            ],
+                            [
+                                -35.75,
+                                -9.0
+                            ],
+                            [
+                                -36.0,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 60,
+                "identificador": "1448-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.75,
+                                -9.0
+                            ],
+                            [
+                                -35.75,
+                                -8.75
+                            ],
+                            [
+                                -35.5,
+                                -8.75
+                            ],
+                            [
+                                -35.5,
+                                -9.0
+                            ],
+                            [
+                                -35.75,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 61,
+                "identificador": "1284-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.25,
+                                -7.75
+                            ],
+                            [
+                                -39.25,
+                                -7.5
+                            ],
+                            [
+                                -39.0,
+                                -7.5
+                            ],
+                            [
+                                -39.0,
+                                -7.75
+                            ],
+                            [
+                                -39.25,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 62,
+                "identificador": "1291-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.0,
+                                -7.75
+                            ],
+                            [
+                                -36.0,
+                                -7.5
+                            ],
+                            [
+                                -35.75,
+                                -7.5
+                            ],
+                            [
+                                -35.75,
+                                -7.75
+                            ],
+                            [
+                                -36.0,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 63,
+                "identificador": "1291-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -36.0,
+                                -8.0
+                            ],
+                            [
+                                -36.0,
+                                -7.75
+                            ],
+                            [
+                                -35.75,
+                                -7.75
+                            ],
+                            [
+                                -35.75,
+                                -8.0
+                            ],
+                            [
+                                -36.0,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 64,
+                "identificador": "1285-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.0,
+                                -7.75
+                            ],
+                            [
+                                -39.0,
+                                -7.5
+                            ],
+                            [
+                                -38.75,
+                                -7.5
+                            ],
+                            [
+                                -38.75,
+                                -7.75
+                            ],
+                            [
+                                -39.0,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 65,
+                "identificador": "1291-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.75,
+                                -7.75
+                            ],
+                            [
+                                -35.75,
+                                -7.5
+                            ],
+                            [
+                                -35.5,
+                                -7.5
+                            ],
+                            [
+                                -35.5,
+                                -7.75
+                            ],
+                            [
+                                -35.75,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 66,
+                "identificador": "1212-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.75,
+                                -7.5
+                            ],
+                            [
+                                -35.75,
+                                -7.25
+                            ],
+                            [
+                                -35.5,
+                                -7.25
+                            ],
+                            [
+                                -35.5,
+                                -7.5
+                            ],
+                            [
+                                -35.75,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 67,
+                "identificador": "1285-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -39.0,
+                                -8.0
+                            ],
+                            [
+                                -39.0,
+                                -7.75
+                            ],
+                            [
+                                -38.75,
+                                -7.75
+                            ],
+                            [
+                                -38.75,
+                                -8.0
+                            ],
+                            [
+                                -39.0,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 70,
+                "identificador": "1285-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.75,
+                                -7.75
+                            ],
+                            [
+                                -38.75,
+                                -7.5
+                            ],
+                            [
+                                -38.5,
+                                -7.5
+                            ],
+                            [
+                                -38.5,
+                                -7.75
+                            ],
+                            [
+                                -38.75,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 72,
+                "identificador": "1213-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.5,
+                                -7.5
+                            ],
+                            [
+                                -35.5,
+                                -7.25
+                            ],
+                            [
+                                -35.25,
+                                -7.25
+                            ],
+                            [
+                                -35.25,
+                                -7.5
+                            ],
+                            [
+                                -35.5,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 75,
+                "identificador": "1286-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.5,
+                                -7.75
+                            ],
+                            [
+                                -38.5,
+                                -7.5
+                            ],
+                            [
+                                -38.25,
+                                -7.5
+                            ],
+                            [
+                                -38.25,
+                                -7.75
+                            ],
+                            [
+                                -38.5,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 77,
+                "identificador": "1449-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.5,
+                                -9.0
+                            ],
+                            [
+                                -35.5,
+                                -8.75
+                            ],
+                            [
+                                -35.25,
+                                -8.75
+                            ],
+                            [
+                                -35.25,
+                                -9.0
+                            ],
+                            [
+                                -35.5,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 79,
+                "identificador": "1286-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.5,
+                                -8.0
+                            ],
+                            [
+                                -38.5,
+                                -7.75
+                            ],
+                            [
+                                -38.25,
+                                -7.75
+                            ],
+                            [
+                                -38.25,
+                                -8.0
+                            ],
+                            [
+                                -38.5,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 80,
+                "identificador": "1449-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.25,
+                                -8.75
+                            ],
+                            [
+                                -35.25,
+                                -8.5
+                            ],
+                            [
+                                -35.0,
+                                -8.5
+                            ],
+                            [
+                                -35.0,
+                                -8.75
+                            ],
+                            [
+                                -35.25,
+                                -8.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 81,
+                "identificador": "1449-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.25,
+                                -9.0
+                            ],
+                            [
+                                -35.25,
+                                -8.75
+                            ],
+                            [
+                                -35.0,
+                                -8.75
+                            ],
+                            [
+                                -35.0,
+                                -9.0
+                            ],
+                            [
+                                -35.25,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 82,
+                "identificador": "1286-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.25,
+                                -8.0
+                            ],
+                            [
+                                -38.25,
+                                -7.75
+                            ],
+                            [
+                                -38.0,
+                                -7.75
+                            ],
+                            [
+                                -38.0,
+                                -8.0
+                            ],
+                            [
+                                -38.25,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 83,
+                "identificador": "1449-A-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.0,
+                                -8.75
+                            ],
+                            [
+                                -35.0,
+                                -8.5
+                            ],
+                            [
+                                -34.75,
+                                -8.5
+                            ],
+                            [
+                                -34.75,
+                                -8.75
+                            ],
+                            [
+                                -35.0,
+                                -8.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 84,
+                "identificador": "1520-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.25,
+                                -9.25
+                            ],
+                            [
+                                -38.25,
+                                -9.0
+                            ],
+                            [
+                                -38.0,
+                                -9.0
+                            ],
+                            [
+                                -38.0,
+                                -9.25
+                            ],
+                            [
+                                -38.25,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 85,
+                "identificador": "1293-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.0,
+                                -7.75
+                            ],
+                            [
+                                -35.0,
+                                -7.5
+                            ],
+                            [
+                                -34.75,
+                                -7.5
+                            ],
+                            [
+                                -34.75,
+                                -7.75
+                            ],
+                            [
+                                -35.0,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 86,
+                "identificador": "1214-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.0,
+                                -7.5
+                            ],
+                            [
+                                -35.0,
+                                -7.25
+                            ],
+                            [
+                                -34.75,
+                                -7.25
+                            ],
+                            [
+                                -34.75,
+                                -7.5
+                            ],
+                            [
+                                -35.0,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 88,
+                "identificador": "1213-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -35.25,
+                                -7.5
+                            ],
+                            [
+                                -35.25,
+                                -7.25
+                            ],
+                            [
+                                -35.0,
+                                -7.25
+                            ],
+                            [
+                                -35.0,
+                                -7.5
+                            ],
+                            [
+                                -35.25,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 89,
+                "identificador": "1359-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -41.25,
+                                -8.5
+                            ],
+                            [
+                                -41.25,
+                                -8.25
+                            ],
+                            [
+                                -41.0,
+                                -8.25
+                            ],
+                            [
+                                -41.0,
+                                -8.5
+                            ],
+                            [
+                                -41.25,
+                                -8.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 90,
+                "identificador": "1521-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.0,
+                                -9.25
+                            ],
+                            [
+                                -38.0,
+                                -9.0
+                            ],
+                            [
+                                -37.75,
+                                -9.0
+                            ],
+                            [
+                                -37.75,
+                                -9.25
+                            ],
+                            [
+                                -38.0,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 91,
+                "identificador": "1444-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.0,
+                                -9.0
+                            ],
+                            [
+                                -38.0,
+                                -8.75
+                            ],
+                            [
+                                -37.75,
+                                -8.75
+                            ],
+                            [
+                                -37.75,
+                                -9.0
+                            ],
+                            [
+                                -38.0,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 92,
+                "identificador": "1360-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -41.0,
+                                -8.5
+                            ],
+                            [
+                                -41.0,
+                                -8.25
+                            ],
+                            [
+                                -40.75,
+                                -8.25
+                            ],
+                            [
+                                -40.75,
+                                -8.5
+                            ],
+                            [
+                                -41.0,
+                                -8.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 93,
+                "identificador": "1286-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.25,
+                                -7.75
+                            ],
+                            [
+                                -38.25,
+                                -7.5
+                            ],
+                            [
+                                -38.0,
+                                -7.5
+                            ],
+                            [
+                                -38.0,
+                                -7.75
+                            ],
+                            [
+                                -38.25,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 94,
+                "identificador": "1521-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.75,
+                                -9.25
+                            ],
+                            [
+                                -37.75,
+                                -9.0
+                            ],
+                            [
+                                -37.5,
+                                -9.0
+                            ],
+                            [
+                                -37.5,
+                                -9.25
+                            ],
+                            [
+                                -37.75,
+                                -9.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 95,
+                "identificador": "1444-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.75,
+                                -9.0
+                            ],
+                            [
+                                -37.75,
+                                -8.75
+                            ],
+                            [
+                                -37.5,
+                                -8.75
+                            ],
+                            [
+                                -37.5,
+                                -9.0
+                            ],
+                            [
+                                -37.75,
+                                -9.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 96,
+                "identificador": "1287-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.0,
+                                -7.75
+                            ],
+                            [
+                                -38.0,
+                                -7.5
+                            ],
+                            [
+                                -37.75,
+                                -7.5
+                            ],
+                            [
+                                -37.75,
+                                -7.75
+                            ],
+                            [
+                                -38.0,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 97,
+                "identificador": "1287-3",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -38.0,
+                                -8.0
+                            ],
+                            [
+                                -38.0,
+                                -7.75
+                            ],
+                            [
+                                -37.75,
+                                -7.75
+                            ],
+                            [
+                                -37.75,
+                                -8.0
+                            ],
+                            [
+                                -38.0,
+                                -8.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 98,
+                "identificador": "1287-2",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.75,
+                                -7.75
+                            ],
+                            [
+                                -37.75,
+                                -7.5
+                            ],
+                            [
+                                -37.5,
+                                -7.5
+                            ],
+                            [
+                                -37.5,
+                                -7.75
+                            ],
+                            [
+                                -37.75,
+                                -7.75
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 99,
+                "identificador": "1360-1",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -41.0,
+                                -8.25
+                            ],
+                            [
+                                -41.0,
+                                -8.0
+                            ],
+                            [
+                                -40.75,
+                                -8.0
+                            ],
+                            [
+                                -40.75,
+                                -8.25
+                            ],
+                            [
+                                -41.0,
+                                -8.25
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 100,
+                "identificador": "1208-4",
+                "Situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -37.75,
+                                -7.5
+                            ],
+                            [
+                                -37.75,
+                                -7.25
+                            ],
+                            [
+                                -37.5,
+                                -7.25
+                            ],
+                            [
+                                -37.5,
+                                -7.5
+                            ],
+                            [
+                                -37.75,
+                                -7.5
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
