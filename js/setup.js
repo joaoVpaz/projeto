@@ -88,20 +88,18 @@ const INIT_ZOOM = {
 }
 
 var PROJECTS = {
-    'mapeamento-do-estado-de-pernambuco': {
+    'mapeamento-do-estado-de-pernambuco 1:25000': {
         title: 'Mapeamento do Estado de Pernambuco',
         legend: [
             1,
             12,
             7,
-            8,
             5,
             6,
             3
         ],
         description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
-        para gerar 493 cartas ortoimagens na escala 1:25.000 e 69 cartas ortoimagens na escala 1:50.000 visando 
-        atender a meta do Plano Interno de Trabalho(PIT) 2021 da Diretoria de Serviço Geográfico.`,
+        para gerar 493 cartas ortoimagens na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
         lotes: [
             {
                 name: 'mapeamento-do-estado-de-pernambuco',
@@ -132,6 +130,65 @@ var PROJECTS = {
                     },
                     {
                         'id': 'mapeamento-do-estado-de-pernambuco-text',
+                        'source': 'mapeamento-do-estado-de-pernambuco',
+                        "type": "symbol",
+                        "maxzoom": 10,
+                        "minzoom": 7.4,
+                        'layout': {
+                            'text-field': ['to-string', ['get', 'identificador']]
+
+                        },
+                        'paint': {
+
+                        }
+                    }
+                ]
+            },
+            
+        ]
+    },
+    'mapeamento-do-estado-de-pernambuco 1:50.000': {
+        title: 'Mapeamento do Estado de Pernambuco 1:50.000',
+        legend: [
+            1,
+            12,
+            7,
+            5,
+            6,
+            3
+        ],
+        description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
+        para gerar  69 cartas ortoimagens na escala 1:50.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        lotes: [
+            {
+                name: 'mapeamento-do-estado-de-pernambuco',
+                subtitle: 'Mapeamento 1:50.000',
+                zoom: [
+                    [-42, -10], // southwestern corner of the bounds
+                    [-33, -7] // northeastern corner of the bounds
+                ],
+                styles: [
+                    {
+                        'id': 'mapeamento-do-estado-de-pernambuco-50000-fill',
+                        'source': 'mapeamento-do-estado-de-pernambuco',
+                        'type': 'fill',
+                        'layout': {},
+                        'paint': {
+                            'fill-opacity': 0.9
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-do-estado-de-pernambuco-50000-border',
+                        'source': 'mapeamento-do-estado-de-pernambuco',
+                        'type': 'line',
+                        'layout': {},
+                        'paint': {
+                            'line-color': '#050505',
+                            'line-width': 0.5
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-do-estado-de-pernambuco-50000-text',
                         'source': 'mapeamento-do-estado-de-pernambuco',
                         "type": "symbol",
                         "maxzoom": 10,
