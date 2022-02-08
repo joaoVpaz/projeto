@@ -147,10 +147,10 @@ var PROJECTS = {
             
         ]
     },
-    'mapeamento-do-estado-de-pernambuco-1:50.000': {
-        title: 'Mapeamento do Estado de Pernambuco 1:50.000',
+    'mapeamento-do-estado-de-pernambuco-1:50000': {
+        title: 'Mapeamento do Estaçdo de Pernambuco 1:50000',
         description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
-        para gerar  69 cartas ortoimagens na escala 1:50.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        para gerar  69 cartas ortoimagens na escala 1:50000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
         legend: [
             1,
             12,
@@ -163,7 +163,7 @@ var PROJECTS = {
         lotes: [
             {
                 name: 'mapeamento-do-estado-de-pernambuco-50000',
-                subtitle: 'Mapeamento 1:50.000',
+                subtitle: 'Mapeamento 1:50000',
                 zoom: [
                     [-42, -10], // southwestern corner of the bounds
                     [-33, -7] // northeastern corner of the bounds
