@@ -161,7 +161,7 @@ var PROJECTS = {
         para gerar  69 cartas ortoimagens na escala 1:50.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
         lotes: [
             {
-                name: 'mapeamento-do-estado-de-pernambuco',
+                name: 'mapeamento-do-estado-de-pernambuco-50000',
                 subtitle: 'Mapeamento 1:50.000',
                 zoom: [
                     [-42, -10], // southwestern corner of the bounds
@@ -170,7 +170,7 @@ var PROJECTS = {
                 styles: [
                     {
                         'id': 'mapeamento-do-estado-de-pernambuco-50000-fill',
-                        'source': 'mapeamento-do-estado-de-pernambuco',
+                        'source': 'mapeamento-do-estado-de-pernambuco-50000',
                         'type': 'fill',
                         'layout': {},
                         'paint': {
@@ -179,7 +179,7 @@ var PROJECTS = {
                     },
                     {
                         'id': 'mapeamento-do-estado-de-pernambuco-50000-border',
-                        'source': 'mapeamento-do-estado-de-pernambuco',
+                        'source': 'mapeamento-do-estado-de-pernambuco-50000',
                         'type': 'line',
                         'layout': {},
                         'paint': {
@@ -189,7 +189,7 @@ var PROJECTS = {
                     },
                     {
                         'id': 'mapeamento-do-estado-de-pernambuco-50000-text',
-                        'source': 'mapeamento-do-estado-de-pernambuco',
+                        'source': 'mapeamento-do-estado-de-pernambuco-50000',
                         "type": "symbol",
                         "maxzoom": 10,
                         "minzoom": 7.4,
@@ -205,5 +205,5 @@ var PROJECTS = {
             },
             
         ]
-    },
+    }
 }
