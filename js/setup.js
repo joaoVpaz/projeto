@@ -63,7 +63,7 @@ const SUBTITLE_STATES = [
     {
         id: 13,
         name: 'Medição de pontos de controle',
-        color: 'rgb(25, 180, 227)'
+        color: 'rgb(0, 0, 0)'
     },
     {
         id: 14,
