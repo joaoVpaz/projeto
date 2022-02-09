@@ -63,7 +63,7 @@ const SUBTITLE_STATES = [
     {
         id: 13,
         name: 'Medição de pontos de controle',
-        color: 'rgb(0, 0, 0)'
+        color: 'rgb(0,0,0)'
     },
     {
         id: 14,
@@ -147,10 +147,10 @@ var PROJECTS = {
             
         ]
     },
-    'mapeamento-do-estado-de-pernambuco-1:50000': {
-        title: 'Mapeamento do Estaçdo de Pernambuco 1:50000',
+    'mapeamento-do-estado-de-pernambuco-1:50.000': {
+        title: 'Mapeamento do Estado de Pernambuco 1:50.000',
         description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
-        para gerar  69 cartas ortoimagens na escala 1:50000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        para gerar  69 cartas ortoimagens na escala 1:50.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
         legend: [
             1,
             12,
@@ -163,7 +163,7 @@ var PROJECTS = {
         lotes: [
             {
                 name: 'mapeamento-do-estado-de-pernambuco-50000',
-                subtitle: 'Mapeamento 1:50000',
+                subtitle: 'Mapeamento 1:50.000',
                 zoom: [
                     [-42, -10], // southwestern corner of the bounds
                     [-33, -7] // northeastern corner of the bounds
@@ -191,6 +191,66 @@ var PROJECTS = {
                     {
                         'id': 'mapeamento-do-estado-de-pernambuco-50000-text',
                         'source': 'mapeamento-do-estado-de-pernambuco-50000',
+                        "type": "symbol",
+                        "maxzoom": 10,
+                        "minzoom": 7.4,
+                        'layout': {
+                            'text-field': ['to-string', ['get', 'identificador']]
+
+                        },
+                        'paint': {
+
+                        }
+                    }
+                ]
+            },
+            
+        ]
+    },
+    'mapeamento-topografico-cimnc': {
+        title: 'Mapeamento Topográfico do Campo de Instrução Marechal Newton Cavalcanti - CIMNC',
+        description: `O objetivo do presente projeto consiste em realizar o mapeamento topográfico do Campo de Instrução Marechal Newton Cavalcanti - CIMNC,
+        para gerar 4 cartas topográficas na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        legend: [
+            1,
+            12,
+            7,
+            5,
+            6,
+            3
+        ],
+       
+        lotes: [
+            {
+                name: 'mapeamento-topografico-cimnc',
+                subtitle: 'Mapeamento topográfico CIMNC',
+                zoom: [
+                    [-42, -10], // southwestern corner of the bounds
+                    [-33, -7] // northeastern corner of the bounds
+                ],
+                styles: [
+                    {
+                        'id': 'mapeamento-topografico-cimnc-fill',
+                        'source': 'mapeamento-topografico-cimnc',
+                        'type': 'fill',
+                        'layout': {},
+                        'paint': {
+                            'fill-opacity': 0.9
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-topografico-cimnc',
+                        'source': 'mapeamento-topografico-cimnc',
+                        'type': 'line',
+                        'layout': {},
+                        'paint': {
+                            'line-color': '#050505',
+                            'line-width': 0.5
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-topografico-cimnc',
+                        'source': 'mapeamento-topografico-cimnc',
                         "type": "symbol",
                         "maxzoom": 10,
                         "minzoom": 7.4,
