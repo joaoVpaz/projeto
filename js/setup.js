@@ -100,7 +100,11 @@ var PROJECTS = {
             3
         ],
         description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
-        para gerar 493 cartas ortoimagens na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        para gerar 493 cartas ortoimagens na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.
+        Vetorização: 53,55%
+        Adequação: 15,62%
+        Validação: 2,42%
+        Finalizadas: 1,42%`,
         description: `Vetorização: 53,55%`,
         description: `Adequação: 15,62%`,
         description: `Validação: 2,42%`,
