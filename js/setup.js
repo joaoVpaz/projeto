@@ -37,7 +37,7 @@ const SUBTITLE_STATES = [
     },
     {
         id: 8,
-        name: 'Avaliação',
+        name: 'Adequação',
         color: 'rgb(175,141,195)'
     },
     {
@@ -94,6 +94,7 @@ var PROJECTS = {
             1,
             12,
             7,
+            8,
             5,
             6,
             3
@@ -155,6 +156,7 @@ var PROJECTS = {
             1,
             12,
             7,
+            8,
             5,
             6,
             3
@@ -215,6 +217,7 @@ var PROJECTS = {
             1,
             12,
             7,
+            8,
             5,
             6,
             3
@@ -275,6 +278,7 @@ var PROJECTS = {
             1,
             12,
             7,
+            8,
             5,
             6,
             3
@@ -326,6 +330,6 @@ var PROJECTS = {
             },
             
         ]
-    }
+    },
     
 }
