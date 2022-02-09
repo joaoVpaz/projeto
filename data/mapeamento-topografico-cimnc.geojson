@@ -1,0 +1,146 @@
+{
+    "type": "FeatureCollection",
+    "name": "mapeamento-topografico-cimnc",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2004",
+                "identificador": "1292-4-SE",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.125,
+                            -8.0
+                        ],
+                        [
+                            -35.125,
+                            -7.875
+                        ],
+                        [
+                            -35.0,
+                            -7.875
+                        ],
+                        [
+                            -35.0,
+                            -8.0
+                        ],
+                        [
+                            -35.125,
+                            -8.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2002",
+                "identificador": "1292-4-NO",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.25,
+                            -7.875
+                        ],
+                        [
+                            -35.25,
+                            -7.75
+                        ],
+                        [
+                            -35.125,
+                            -7.75
+                        ],
+                        [
+                            -35.125,
+                            -7.875
+                        ],
+                        [
+                            -35.25,
+                            -7.875
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2003",
+                "identificador": "1292-4-NE",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.125,
+                            -7.875
+                        ],
+                        [
+                            -35.125,
+                            -7.75
+                        ],
+                        [
+                            -35.0,
+                            -7.75
+                        ],
+                        [
+                            -35.0,
+                            -7.875
+                        ],
+                        [
+                            -35.125,
+                            -7.875
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2001",
+                "identificador": "1292-4-SO",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.25,
+                            -8.0
+                        ],
+                        [
+                            -35.25,
+                            -7.875
+                        ],
+                        [
+                            -35.125,
+                            -7.875
+                        ],
+                        [
+                            -35.125,
+                            -8.0
+                        ],
+                        [
+                            -35.25,
+                            -8.0
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
