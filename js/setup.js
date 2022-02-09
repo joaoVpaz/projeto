@@ -101,6 +101,10 @@ var PROJECTS = {
         ],
         description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
         para gerar 493 cartas ortoimagens na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        description: `Vetorização: 53,55%`,
+        description: `Adequação: 15,62%`,
+        description: `Validação: 2,42%`,
+        description: `Finalizadas: 1,42%`,
         lotes: [
             {
                 name: 'mapeamento-do-estado-de-pernambuco',
@@ -274,6 +278,7 @@ var PROJECTS = {
         title: 'Mapeamento das Capitais',
         description: `O objetivo do presente projeto consiste em realizar o mapeamento das capitais, para gerar 41 cartas ortoimagens, 8 na escala 1:25.000 
         e 33 na escala de 1:50.000, visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        description: `Finalizadas: 19,51%`,
         legend: [
             1,
             12,
