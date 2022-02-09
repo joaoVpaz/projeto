@@ -220,7 +220,7 @@ var PROJECTS = {
             3
         ],
        
-         lotes: [
+        lotes: [
             {
                 name: 'mapeamento-topografico-cimnc',
                 subtitle: 'Mapeamento topográfico CIMNC',
@@ -266,5 +266,66 @@ var PROJECTS = {
             },
             
         ]
-    }
+    },
+    'mapeamento-das-capitais': {
+        title: 'Mapeamento das Capitais',
+        description: `O objetivo do presente projeto consiste em realizar o mapeamento das capitais, para gerar 41 cartas ortoimagens, 8 na escala 1:25.000 
+        e 33 na escala de 1:50.000, visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        legend: [
+            1,
+            12,
+            7,
+            5,
+            6,
+            3
+        ],
+       
+        lotes: [
+            {
+                name: 'mapeamento-das-capitais',
+                subtitle: 'Mapeamento das capitais',
+                zoom: [
+                    [-46, -13.41], // southwestern corner of the bounds
+                    [-34.2, -2.1] // northeastern corner of the bounds
+                ],
+                styles: [
+                    {
+                        'id': 'mapeamento-das-capitais-fill',
+                        'source': 'mapeamento-das-capitais',
+                        'type': 'fill',
+                        'layout': {},
+                        'paint': {
+                            'fill-opacity': 0.9
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-das-capitais',
+                        'source': 'mapeamento-das-capitais',
+                        'type': 'line',
+                        'layout': {},
+                        'paint': {
+                            'line-color': '#050505',
+                            'line-width': 0.5
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-das-capitais',
+                        'source': 'mapeamento-das-capitais',
+                        "type": "symbol",
+                        "maxzoom": 11.0,
+                        "minzoom": 9,
+                        'layout': {
+                            'text-field': ['to-string', ['get', 'identificador']]
+    
+                        },
+                        'paint': {
+    
+                        }
+                    }
+                ]
+            },
+            
+        ]
+    },
+    
 }
