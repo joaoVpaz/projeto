@@ -220,13 +220,13 @@ var PROJECTS = {
             3
         ],
        
-        lotes: [
+         lotes: [
             {
                 name: 'mapeamento-topografico-cimnc',
                 subtitle: 'Mapeamento topográfico CIMNC',
                 zoom: [
-                    [-42, -10], // southwestern corner of the bounds
-                    [-33, -7] // northeastern corner of the bounds
+                    [-35.25, -8], // southwestern corner of the bounds
+                    [-34.9, -7.6] // northeastern corner of the bounds
                 ],
                 styles: [
                     {
@@ -252,8 +252,8 @@ var PROJECTS = {
                         'id': 'mapeamento-topografico-cimnc',
                         'source': 'mapeamento-topografico-cimnc',
                         "type": "symbol",
-                        "maxzoom": 10,
-                        "minzoom": 7.4,
+                        "maxzoom": 11.0,
+                        "minzoom": 9,
                         'layout': {
                             'text-field': ['to-string', ['get', 'identificador']]
 
