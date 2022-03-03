@@ -102,7 +102,7 @@ var PROJECTS = {
         lotes: [
             {
                 name: 'mapeamento-FORPRON',
-                subtitle: 'Mapeamento 1:25.000',
+                subtitle: 'vetorização da FORPRON 1:50.000',
                 zoom: [
                     [-42, -10], // southwestern corner of the bounds
                     [-33, -7] // northeastern corner of the bounds
