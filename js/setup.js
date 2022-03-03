@@ -146,6 +146,65 @@ var PROJECTS = {
             
         ]
     },
+    'mapeamento-topografico-cimnc': {
+        title: 'Mapeamento Topográfico do Campo de Instrução Marechal Newton Cavalcanti - CIMNC',
+        description: `O objetivo do presente projeto consiste em realizar o mapeamento topográfico do Campo de Instrução Marechal Newton Cavalcanti - CIMNC,
+        para gerar 4 cartas topográficas na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
+        legend: [
+            7,
+            4,
+            5,
+            6,
+            3,
+        ],
+       
+        lotes: [
+            {
+                name: 'mapeamento-topografico-cimnc',
+                subtitle: 'Mapeamento topográfico CIMNC',
+                zoom: [
+                    [-35.25, -8], // southwestern corner of the bounds
+                    [-34.9, -7.6] // northeastern corner of the bounds
+                ],
+                styles: [
+                    {
+                        'id': 'mapeamento-topografico-cimnc-fill',
+                        'source': 'mapeamento-topografico-cimnc',
+                        'type': 'fill',
+                        'layout': {},
+                        'paint': {
+                            'fill-opacity': 0.9
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-topografico-cimnc',
+                        'source': 'mapeamento-topografico-cimnc',
+                        'type': 'line',
+                        'layout': {},
+                        'paint': {
+                            'line-color': '#050505',
+                            'line-width': 0.5
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-topografico-cimnc',
+                        'source': 'mapeamento-topografico-cimnc',
+                        "type": "symbol",
+                        "maxzoom": 11.0,
+                        "minzoom": 9,
+                        'layout': {
+                            'text-field': ['to-string', ['get', 'identificador']]
+
+                        },
+                        'paint': {
+
+                        }
+                    }
+                ]
+            },
+            
+        ]
+    },
     'mapeamento-do-estado-de-pernambuco 1:25000': {
         title: 'Mapeamento do Estado de Pernambuco',
         legend: [
@@ -271,67 +330,7 @@ var PROJECTS = {
             
         ]
     },
-    'mapeamento-topografico-cimnc': {
-        title: 'Mapeamento Topográfico do Campo de Instrução Marechal Newton Cavalcanti - CIMNC',
-        description: `O objetivo do presente projeto consiste em realizar o mapeamento topográfico do Campo de Instrução Marechal Newton Cavalcanti - CIMNC,
-        para gerar 4 cartas topográficas na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.`,
-        legend: [
-            1,
-            12,
-            7,
-            8,
-            5,
-            6,
-            3
-        ],
-       
-        lotes: [
-            {
-                name: 'mapeamento-topografico-cimnc',
-                subtitle: 'Mapeamento topográfico CIMNC',
-                zoom: [
-                    [-35.25, -8], // southwestern corner of the bounds
-                    [-34.9, -7.6] // northeastern corner of the bounds
-                ],
-                styles: [
-                    {
-                        'id': 'mapeamento-topografico-cimnc-fill',
-                        'source': 'mapeamento-topografico-cimnc',
-                        'type': 'fill',
-                        'layout': {},
-                        'paint': {
-                            'fill-opacity': 0.9
-                        }
-                    },
-                    {
-                        'id': 'mapeamento-topografico-cimnc',
-                        'source': 'mapeamento-topografico-cimnc',
-                        'type': 'line',
-                        'layout': {},
-                        'paint': {
-                            'line-color': '#050505',
-                            'line-width': 0.5
-                        }
-                    },
-                    {
-                        'id': 'mapeamento-topografico-cimnc',
-                        'source': 'mapeamento-topografico-cimnc',
-                        "type": "symbol",
-                        "maxzoom": 11.0,
-                        "minzoom": 9,
-                        'layout': {
-                            'text-field': ['to-string', ['get', 'identificador']]
-
-                        },
-                        'paint': {
-
-                        }
-                    }
-                ]
-            },
-            
-        ]
-    },
+    
     'mapeamento-das-capitais': {
         title: 'Mapeamento das Capitais',
         description: `O objetivo do presente projeto consiste em realizar o mapeamento das capitais, para gerar 41 cartas ortoimagens, 8 na escala 1:25.000 
