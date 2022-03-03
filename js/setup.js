@@ -88,6 +88,64 @@ const INIT_ZOOM = {
 }
 
 var PROJECTS = {
+    'mapeamento-FORPRON': {
+        title: 'Vetorização de cartas para a certificação da FORPRON',
+        legend: [
+            1,
+            7,
+            8,
+            5,
+        ],
+        description: `O objetivo do presente projeto consiste em realizar a vetorização de 24 cartas para 1:50.000, 
+        no  intuito de apoiar a simulação construtiva da 10ª Bda Inf Mtz no contexto da certificação daquela GU como FORPRON
+        `,
+        lotes: [
+            {
+                name: 'mapeamento-FORPRON',
+                subtitle: 'Mapeamento 1:25.000',
+                zoom: [
+                    [-42, -10], // southwestern corner of the bounds
+                    [-33, -7] // northeastern corner of the bounds
+                ],
+                styles: [
+                    {
+                        'id': 'mapeamento-FORPRON-fill',
+                        'source': 'mapeamento-FORPRON',
+                        'type': 'fill',
+                        'layout': {},
+                        'paint': {
+                            'fill-opacity': 0.9
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-FORPRON-border',
+                        'source': 'mapeamento-FORPRON',
+                        'type': 'line',
+                        'layout': {},
+                        'paint': {
+                            'line-color': '#050505',
+                            'line-width': 0.5
+                        }
+                    },
+                    {
+                        'id': 'mapeamento-FORPRON-text',
+                        'source': 'mapeamento-FORPRON',
+                        "type": "symbol",
+                        "maxzoom": 10,
+                        "minzoom": 7.4,
+                        'layout': {
+                            'text-field': ['to-string', ['get', 'identificador']]
+
+                        },
+                        'paint': {
+
+                        }
+                    }
+                ]
+            },
+            
+        ]
+    },
     'mapeamento-do-estado-de-pernambuco 1:25000': {
         title: 'Mapeamento do Estado de Pernambuco',
         legend: [
@@ -100,11 +158,11 @@ var PROJECTS = {
             3
         ],
         description: `O objetivo do presente projeto consiste em realizar o mapeamento do estado de Pernambuco,
-        para gerar 493 cartas ortoimagens na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.\n
-        Vetorização: 53,55% \n
-        Adequação: 15,62% \n
-        Validação: 2,42% \n
-        Finalizadas: 1,42% \n`,
+        para gerar 493 cartas ortoimagens na escala 1:25.000 visando atender a meta do Plano Interno de Trabalho(PIT) 2022 da Diretoria de Serviço Geográfico.
+        Vetorização: 57,20% 
+        Adequação: 18,45% 
+        Validação: 2,42% 
+        Finalizadas: 1,42% `,
         lotes: [
             {
                 name: 'mapeamento-do-estado-de-pernambuco',
