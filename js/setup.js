@@ -12,8 +12,8 @@ const SUBTITLE_STATES = [
     },
     {
         id: 3,
-        name: 'Disseminação',
-        color: 'rgb(145,207,96)'
+        name: 'Finalizada',
+        color: 'rgb(51,204,51)'
     },
     {
         id: 4,
@@ -67,8 +67,8 @@ const SUBTITLE_STATES = [
     },
     {
         id: 14,
-        name: 'Geração de ortoimagem',
-        color: 'rgb(128,205,193)'
+        name: 'Em Aquisição',
+        color: 'rgb(255,255,0)'
     },
     {
         id: 15,
@@ -79,16 +79,6 @@ const SUBTITLE_STATES = [
         id: 16,
         name: 'Levantamento topográfico',
         color: 'rgb(37,52,148)'
-    },
-    {
-        id: 17,
-        name: 'Em Aquisição',
-        color: 'rgb(255, 255, 0)'
-    },
-    {
-        id: 18,
-        name: 'Pronta',
-        color: 'rgb(51, 204, 51)'
     }
 ]
 
@@ -102,9 +92,8 @@ var PROJECTS = {
         title: 'Vetorização de cartas para a certificação da FORPRON',
         legend: [
             1,
-            17,
-            18,
-            5,
+            14,
+            3,
         ],
         description: `O objetivo do presente projeto consiste em realizar a vetorização de 24 cartas para 1:50.000, 
         no  intuito de apoiar a simulação construtiva da 10ª Bda Inf Mtz no contexto da certificação daquela GU como FORPRON
