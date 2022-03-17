@@ -89,7 +89,7 @@ const INIT_ZOOM = {
 
 var PROJECTS = {
     'mapeamento-FORPRON': {
-        title: 'Vetorização de cartas para a certificação da FORPRON',
+        title: 'Vetorização de cartas para a certificação da FORPRON ',
         legend: [
             1,
             14,
