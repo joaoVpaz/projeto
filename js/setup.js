@@ -79,6 +79,16 @@ const SUBTITLE_STATES = [
         id: 16,
         name: 'Levantamento topográfico',
         color: 'rgb(37,52,148)'
+    },
+    {
+        id: 17,
+        name: 'Em Aquisição',
+        color: 'rgb(255, 255, 0)'
+    },
+    {
+        id: 18,
+        name: 'Pronta',
+        color: 'rgb(51, 204, 51)'
     }
 ]
 
@@ -92,8 +102,8 @@ var PROJECTS = {
         title: 'Vetorização de cartas para a certificação da FORPRON',
         legend: [
             1,
-            7,
-            8,
+            17,
+            18,
             5,
         ],
         description: `O objetivo do presente projeto consiste em realizar a vetorização de 24 cartas para 1:50.000, 
