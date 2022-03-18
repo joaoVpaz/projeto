@@ -33,7 +33,7 @@ const SUBTITLE_STATES = [
     {
         id: 7,
         name: 'Vetorização',
-        color: 'rgb(222,119,174)'
+        color: 'rgb(255,255,0)'
     },
     {
         id: 8,
