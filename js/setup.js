@@ -92,7 +92,7 @@ var PROJECTS = {
         title: 'Vetorização de cartas para a certificação da FORPRON ',
         legend: [
             1,
-            14,
+            7,
             3,
         ],
         description: `O objetivo do presente projeto consiste em realizar a vetorização de 24 cartas para 1:50.000, 
