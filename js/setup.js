@@ -72,8 +72,8 @@ const SUBTITLE_STATES = [
     },
     {
         id: 15,
-        name: 'Geração de MDE',
-        color: 'rgb(191,129,45)'
+        name: 'Folhas do Projeto Bahia',
+        color: 'rgb(255,255,255)'
     },
     {
         id: 16,
@@ -207,7 +207,7 @@ var PROJECTS = {
     'mapeamento-do-estado-de-pernambuco 1:25000': {
         title: 'Mapeamento do Estado de Pernambuco',
         legend: [
-            1,
+            15,
             12,
             7,
             8,
