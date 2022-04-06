@@ -1,0 +1,1442 @@
+{
+    "type": "FeatureCollection",
+    "name": "mapeamento das capitais",
+   
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3001,
+                "identificador": "1794-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -37.25,
+                            -11.25
+                        ],
+                        [
+                            -37.25,
+                            -11.0
+                        ],
+                        [
+                            -37.0,
+                            -11.0
+                        ],
+                        [
+                            -37.0,
+                            -11.25
+                        ],
+                        [
+                            -37.25,
+                            -11.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3002,
+                "identificador": "963-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -42.75,
+                            -5.75
+                        ],
+                        [
+                            -42.75,
+                            -5.5
+                        ],
+                        [
+                            -42.5,
+                            -5.5
+                        ],
+                        [
+                            -42.5,
+                            -5.75
+                        ],
+                        [
+                            -42.75,
+                            -5.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3003,
+                "identificador": "978-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.25,
+                            -6.0
+                        ],
+                        [
+                            -35.25,
+                            -5.75
+                        ],
+                        [
+                            -35.0,
+                            -5.75
+                        ],
+                        [
+                            -35.0,
+                            -6.0
+                        ],
+                        [
+                            -35.25,
+                            -6.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3004,
+                "identificador": "886-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -43.0,
+                            -5.5
+                        ],
+                        [
+                            -43.0,
+                            -5.25
+                        ],
+                        [
+                            -42.75,
+                            -5.25
+                        ],
+                        [
+                            -42.75,
+                            -5.5
+                        ],
+                        [
+                            -43.0,
+                            -5.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3005,
+                "identificador": "886-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -42.75,
+                            -5.25
+                        ],
+                        [
+                            -42.75,
+                            -5.0
+                        ],
+                        [
+                            -42.5,
+                            -5.0
+                        ],
+                        [
+                            -42.5,
+                            -5.25
+                        ],
+                        [
+                            -42.75,
+                            -5.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3006,
+                "identificador": "978-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.5,
+                            -6.0
+                        ],
+                        [
+                            -35.5,
+                            -5.75
+                        ],
+                        [
+                            -35.25,
+                            -5.75
+                        ],
+                        [
+                            -35.25,
+                            -6.0
+                        ],
+                        [
+                            -35.5,
+                            -6.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3007,
+                "identificador": "886-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -43.0,
+                            -5.25
+                        ],
+                        [
+                            -43.0,
+                            -5.0
+                        ],
+                        [
+                            -42.75,
+                            -5.0
+                        ],
+                        [
+                            -42.75,
+                            -5.25
+                        ],
+                        [
+                            -43.0,
+                            -5.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3008,
+                "identificador": "1958-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.75,
+                            -13.0
+                        ],
+                        [
+                            -38.75,
+                            -12.75
+                        ],
+                        [
+                            -38.5,
+                            -12.75
+                        ],
+                        [
+                            -38.5,
+                            -13.0
+                        ],
+                        [
+                            -38.75,
+                            -13.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3009,
+                "identificador": "1525-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.75,
+                            -9.5
+                        ],
+                        [
+                            -35.75,
+                            -9.25
+                        ],
+                        [
+                            -35.5,
+                            -9.25
+                        ],
+                        [
+                            -35.5,
+                            -9.5
+                        ],
+                        [
+                            -35.75,
+                            -9.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30010,
+                "identificador": "549-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -44.5,
+                            -3.0
+                        ],
+                        [
+                            -44.5,
+                            -2.75
+                        ],
+                        [
+                            -44.25,
+                            -2.75
+                        ],
+                        [
+                            -44.25,
+                            -3.0
+                        ],
+                        [
+                            -44.5,
+                            -3.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30011,
+                "identificador": "2009-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.75,
+                            -13.25
+                        ],
+                        [
+                            -38.75,
+                            -13.0
+                        ],
+                        [
+                            -38.5,
+                            -13.0
+                        ],
+                        [
+                            -38.5,
+                            -13.25
+                        ],
+                        [
+                            -38.75,
+                            -13.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30012,
+                "identificador": "549-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -44.25,
+                            -2.75
+                        ],
+                        [
+                            -44.25,
+                            -2.5
+                        ],
+                        [
+                            -44.0,
+                            -2.5
+                        ],
+                        [
+                            -44.0,
+                            -2.75
+                        ],
+                        [
+                            -44.25,
+                            -2.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30013,
+                "identificador": "1958-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.75,
+                            -12.75
+                        ],
+                        [
+                            -38.75,
+                            -12.5
+                        ],
+                        [
+                            -38.5,
+                            -12.5
+                        ],
+                        [
+                            -38.5,
+                            -12.75
+                        ],
+                        [
+                            -38.75,
+                            -12.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30014,
+                "identificador": "963-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -43.0,
+                            -5.75
+                        ],
+                        [
+                            -43.0,
+                            -5.5
+                        ],
+                        [
+                            -42.75,
+                            -5.5
+                        ],
+                        [
+                            -42.75,
+                            -5.75
+                        ],
+                        [
+                            -43.0,
+                            -5.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30015,
+                "identificador": "495-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -44.25,
+                            -2.5
+                        ],
+                        [
+                            -44.25,
+                            -2.25
+                        ],
+                        [
+                            -44.0,
+                            -2.25
+                        ],
+                        [
+                            -44.0,
+                            -2.5
+                        ],
+                        [
+                            -44.25,
+                            -2.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30016,
+                "identificador": "1959-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.5,
+                            -13.0
+                        ],
+                        [
+                            -38.5,
+                            -12.75
+                        ],
+                        [
+                            -38.25,
+                            -12.75
+                        ],
+                        [
+                            -38.25,
+                            -13.0
+                        ],
+                        [
+                            -38.5,
+                            -13.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30017,
+                "identificador": "978-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.25,
+                            -5.75
+                        ],
+                        [
+                            -35.25,
+                            -5.5
+                        ],
+                        [
+                            -35.0,
+                            -5.5
+                        ],
+                        [
+                            -35.0,
+                            -5.75
+                        ],
+                        [
+                            -35.25,
+                            -5.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30018,
+                "identificador": "2009A-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.5,
+                            -13.25
+                        ],
+                        [
+                            -38.5,
+                            -13.0
+                        ],
+                        [
+                            -38.25,
+                            -13.0
+                        ],
+                        [
+                            -38.25,
+                            -13.25
+                        ],
+                        [
+                            -38.5,
+                            -13.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30019,
+                "identificador": "1525-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -36.0,
+                            -9.5
+                        ],
+                        [
+                            -36.0,
+                            -9.25
+                        ],
+                        [
+                            -35.75,
+                            -9.25
+                        ],
+                        [
+                            -35.75,
+                            -9.5
+                        ],
+                        [
+                            -36.0,
+                            -9.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30020,
+                "identificador": "978-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.5,
+                            -5.75
+                        ],
+                        [
+                            -35.5,
+                            -5.5
+                        ],
+                        [
+                            -35.25,
+                            -5.5
+                        ],
+                        [
+                            -35.25,
+                            -5.75
+                        ],
+                        [
+                            -35.5,
+                            -5.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30021,
+                "identificador": "1214-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.0,
+                            -7.25
+                        ],
+                        [
+                            -35.0,
+                            -7.0
+                        ],
+                        [
+                            -34.75,
+                            -7.0
+                        ],
+                        [
+                            -34.75,
+                            -7.25
+                        ],
+                        [
+                            -35.0,
+                            -7.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30022,
+                "identificador": "495-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -44.5,
+                            -2.5
+                        ],
+                        [
+                            -44.5,
+                            -2.25
+                        ],
+                        [
+                            -44.25,
+                            -2.25
+                        ],
+                        [
+                            -44.25,
+                            -2.5
+                        ],
+                        [
+                            -44.5,
+                            -2.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30023,
+                "identificador": "684-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.75,
+                            -3.75
+                        ],
+                        [
+                            -38.75,
+                            -3.5
+                        ],
+                        [
+                            -38.5,
+                            -3.5
+                        ],
+                        [
+                            -38.5,
+                            -3.75
+                        ],
+                        [
+                            -38.75,
+                            -3.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30024,
+                "identificador": "685-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.5,
+                            -4.0
+                        ],
+                        [
+                            -38.5,
+                            -3.75
+                        ],
+                        [
+                            -38.25,
+                            -3.75
+                        ],
+                        [
+                            -38.25,
+                            -4.0
+                        ],
+                        [
+                            -38.5,
+                            -4.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30025,
+                "identificador": "684-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.75,
+                            -4.0
+                        ],
+                        [
+                            -38.75,
+                            -3.75
+                        ],
+                        [
+                            -38.5,
+                            -3.75
+                        ],
+                        [
+                            -38.5,
+                            -4.0
+                        ],
+                        [
+                            -38.75,
+                            -4.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30026,
+                "identificador": "813-3",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -43.0,
+                            -5.0
+                        ],
+                        [
+                            -43.0,
+                            -4.75
+                        ],
+                        [
+                            -42.75,
+                            -4.75
+                        ],
+                        [
+                            -42.75,
+                            -5.0
+                        ],
+                        [
+                            -43.0,
+                            -5.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30027,
+                "identificador": "1732-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -37.25,
+                            -11.0
+                        ],
+                        [
+                            -37.25,
+                            -10.75
+                        ],
+                        [
+                            -37.0,
+                            -10.75
+                        ],
+                        [
+                            -37.0,
+                            -11.0
+                        ],
+                        [
+                            -37.25,
+                            -11.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30028,
+                "identificador": "549-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -44.5,
+                            -2.75
+                        ],
+                        [
+                            -44.5,
+                            -2.5
+                        ],
+                        [
+                            -44.25,
+                            -2.5
+                        ],
+                        [
+                            -44.25,
+                            -2.75
+                        ],
+                        [
+                            -44.5,
+                            -2.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30029,
+                "identificador": "1600-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -36.0,
+                            -9.75
+                        ],
+                        [
+                            -36.0,
+                            -9.5
+                        ],
+                        [
+                            -35.75,
+                            -9.5
+                        ],
+                        [
+                            -35.75,
+                            -9.75
+                        ],
+                        [
+                            -36.0,
+                            -9.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30030,
+                "identificador": "813-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -42.75,
+                            -5.0
+                        ],
+                        [
+                            -42.75,
+                            -4.75
+                        ],
+                        [
+                            -42.5,
+                            -4.75
+                        ],
+                        [
+                            -42.5,
+                            -5.0
+                        ],
+                        [
+                            -42.75,
+                            -5.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30031,
+                "identificador": "685-1",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.5,
+                            -3.75
+                        ],
+                        [
+                            -38.5,
+                            -3.5
+                        ],
+                        [
+                            -38.25,
+                            -3.5
+                        ],
+                        [
+                            -38.25,
+                            -3.75
+                        ],
+                        [
+                            -38.5,
+                            -3.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30032,
+                "identificador": "886-4",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -42.75,
+                            -5.5
+                        ],
+                        [
+                            -42.75,
+                            -5.25
+                        ],
+                        [
+                            -42.5,
+                            -5.25
+                        ],
+                        [
+                            -42.5,
+                            -5.5
+                        ],
+                        [
+                            -42.75,
+                            -5.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30033,
+                "identificador": "1600-2",
+                "situacao": "Previsto"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.75,
+                            -9.75
+                        ],
+                        [
+                            -35.75,
+                            -9.5
+                        ],
+                        [
+                            -35.5,
+                            -9.5
+                        ],
+                        [
+                            -35.5,
+                            -9.75
+                        ],
+                        [
+                            -35.75,
+                            -9.75
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30034,
+                "identificador": "1371-2-SE",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.125,
+                            -8.25
+                        ],
+                        [
+                            -35.125,
+                            -8.125
+                        ],
+                        [
+                            -35.0,
+                            -8.125
+                        ],
+                        [
+                            -35.0,
+                            -8.25
+                        ],
+                        [
+                            -35.125,
+                            -8.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30035,
+                "identificador": "1292-4-SE",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.125,
+                            -8.0
+                        ],
+                        [
+                            -35.125,
+                            -7.875
+                        ],
+                        [
+                            -35.0,
+                            -7.875
+                        ],
+                        [
+                            -35.0,
+                            -8.0
+                        ],
+                        [
+                            -35.125,
+                            -8.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30036,
+                "identificador": "1293-3-SO",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.0,
+                            -8.0
+                        ],
+                        [
+                            -35.0,
+                            -7.875
+                        ],
+                        [
+                            -34.875,
+                            -7.875
+                        ],
+                        [
+                            -34.875,
+                            -8.0
+                        ],
+                        [
+                            -35.0,
+                            -8.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30037,
+                "identificador": "1371-2-NE",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.125,
+                            -8.125
+                        ],
+                        [
+                            -35.125,
+                            -8.0
+                        ],
+                        [
+                            -35.0,
+                            -8.0
+                        ],
+                        [
+                            -35.0,
+                            -8.125
+                        ],
+                        [
+                            -35.125,
+                            -8.125
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30038,
+                "identificador": "1372-1-NE",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -34.875,
+                            -8.125
+                        ],
+                        [
+                            -34.875,
+                            -8.0
+                        ],
+                        [
+                            -34.75,
+                            -8.0
+                        ],
+                        [
+                            -34.75,
+                            -8.125
+                        ],
+                        [
+                            -34.875,
+                            -8.125
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30039,
+                "identificador": "1293-3-SE",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -34.875,
+                            -8.0
+                        ],
+                        [
+                            -34.875,
+                            -7.875
+                        ],
+                        [
+                            -34.75,
+                            -7.875
+                        ],
+                        [
+                            -34.75,
+                            -8.0
+                        ],
+                        [
+                            -34.875,
+                            -8.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30040,
+                "identificador": "1372-1-SO",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.0,
+                            -8.25
+                        ],
+                        [
+                            -35.0,
+                            -8.125
+                        ],
+                        [
+                            -34.875,
+                            -8.125
+                        ],
+                        [
+                            -34.875,
+                            -8.25
+                        ],
+                        [
+                            -35.0,
+                            -8.25
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30041,
+                "identificador": "1372-1-NO",
+                "situacao": "Finalizada"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.0,
+                            -8.125
+                        ],
+                        [
+                            -35.0,
+                            -8.0
+                        ],
+                        [
+                            -34.875,
+                            -8.0
+                        ],
+                        [
+                            -34.875,
+                            -8.125
+                        ],
+                        [
+                            -35.0,
+                            -8.125
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
