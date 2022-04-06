@@ -1,4 +1,3 @@
-
 const SUBTITLE_STATES = [
     {
         id: 1,
@@ -23,7 +22,7 @@ const SUBTITLE_STATES = [
     {
         id: 5,
         name: 'Validação',
-        color: 'rgb(255,255,191)'
+        color: 'rgb(49,83,222)'
     },
     {
         id: 6,
@@ -33,7 +32,7 @@ const SUBTITLE_STATES = [
     {
         id: 7,
         name: 'Vetorização',
-        color: 'rgb(255,255,0)'
+        color: 'rgb(255,255,30)'
     },
     {
         id: 8,
@@ -67,8 +66,8 @@ const SUBTITLE_STATES = [
     },
     {
         id: 14,
-        name: 'Em Aquisição',
-        color: 'rgb(255,255,0)'
+        name: 'Geração de ortoimagem',
+        color: 'rgb(128,205,193)'
     },
     {
         id: 15,
@@ -89,10 +88,11 @@ const INIT_ZOOM = {
 
 var PROJECTS = {
     'mapeamento-FORPRON': {
-        title: 'Vetorização de cartas para a certificação da FORPRON ',
+        title: 'Vetorização de cartas para a certificação da FORPRON',
         legend: [
             1,
             7,
+            5,
             3,
         ],
         description: `O objetivo do presente projeto consiste em realizar a vetorização de 24 cartas para 1:50.000, 
